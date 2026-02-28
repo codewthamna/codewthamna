@@ -1,4 +1,4 @@
-** Hi there 👋**
+**Hi there 👋**
 
 I’m a Computer Science student who enjoys building things with code and understanding how systems work. I have experience with C++ and object-oriented programming, and I build small projects to improve problem-solving and software design skills. Currently, I’m focused on FullStack web+app development while exploring networking and cybersecurity concepts.
 
