@@ -1,3 +1,15 @@
+
+
+
+## 👋 Hi, I’m Amna
+I’m a Computer Science student learning C++, web development, and exploring networking & cybersecurity.  
+I build small projects to strengthen my OOP, logic, and full-stack skills.
+
+### 📂 My Projects
+- [ATM Management System](link-to-repo)
+- [Employee Management System](link-to-repo)
+- [Add to Cart System](link-to-repo)
+- [Student Record Manager](link-to-repo)
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
