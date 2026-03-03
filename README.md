@@ -23,7 +23,8 @@ Email: amnasadozai09@gmail.com
 LinkedIn: https://linkedin.com/in/AmnaKhan
 
 
-
+<br>
+<br>
 
 
 
@@ -58,9 +59,6 @@ LinkedIn: https://linkedin.com/in/AmnaKhan
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 
