@@ -1,18 +1,7 @@
 
 
 
-## 👋 Hi, I’m Amna
-I’m a Computer Science student learning C++, web development, and exploring networking & cybersecurity.  
-I build small projects to strengthen my OOP, logic, and full-stack skills.
 
-### 📂 My Projects
-- [ATM Management System](link-to-repo)
-- [Employee Management System](link-to-repo)
-- [Add to Cart System](link-to-repo)
-- [Student Record Manager](link-to-repo)
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
