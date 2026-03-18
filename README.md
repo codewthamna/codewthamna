@@ -5,6 +5,10 @@ I’m a Computer Science student who enjoys building things with code and unders
 
 🛠️ Tools & Technologies
 Languages: C++, HTML, CSS, JavaScript, SQL,PHP
+
+
+
+
 FrameWorks: Laravel(PHP)
 Concepts: OOP,  DSA, networking 
 Tools: Git, GitHub, VS Code
