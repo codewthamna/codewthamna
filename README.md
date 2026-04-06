@@ -25,7 +25,7 @@ Chess ♟️ • Cooking 🍳 • Reading about technology
 📫 How to Reach Me
 GitHub: https://github.com/codewthamna
 Email: amnasadozai09@gmail.com
-LinkedIn: https://linkedin.com/in/AmnaKhan
+LinkedIn: https://linkedin.com/in/Amna-Khan
 
 
 <br>
