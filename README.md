@@ -49,7 +49,7 @@ LinkedIn: https://linkedin.com/in/Amna-Khan
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo"  />
- <img width="100" height="200" alt="PHP" src="https://github.com/user-attachments/assets/0f3c6ccb-bfc7-49ef-8ccc-a5ea465452c3" />
+
  <img width="100" height="200" alt="Laravel" src="https://github.com/user-attachments/assets/73d425de-95dd-45fb-8f19-b387a200fd7f" />
 
 
