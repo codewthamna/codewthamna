@@ -20,7 +20,7 @@ Learn by experimenting and debugging
 Explore how systems communicate and stay secure
 
 **🎯 Hobbies**
-Chess ♟️ • Cooking 🍳 • Reading about technology
+Chess ♟️  • Cooking 🍳   • Reading about technology
 
 📫 How to Reach Me
 GitHub: https://github.com/codewthamna
