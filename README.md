@@ -9,11 +9,11 @@ Languages: C, C++, HTML, JavaScript, CSS, PHP, Java,
 
 
 
-**FrameWorks**: Laravel(PHP).
+**FrameWorks :** Laravel(PHP).
 Concepts: OOP,  DSA , networking , Backend.
 Tools: Git, GitHub, VS Code.
 
-**🚀 What I Do**
+**🚀 What I Do :**
 Build small and practical projects
 Create and improve websites+APPS
 Learn by experimenting and debugging
