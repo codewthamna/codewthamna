@@ -3,23 +3,23 @@
 
 I’m a Computer Science student who enjoys building things with code and understanding how systems work. I have experience with C++ and object-oriented programming, and I build small projects to improve problem-solving and software design skills. Currently, I’m focused on FullStack web+app development while exploring networking and cybersecurity concepts.
 
-🛠️ Tools & Technologies
+**🛠️ Tools & Technologies:**
 Languages: C, C++, HTML, JavaScript, CSS, PHP, Java,
 
 
 
 
-FrameWorks: Laravel(PHP)
-Concepts: OOP,  DSA, networking ,Backend
-Tools: Git, GitHub, VS Code
+**FrameWorks**: Laravel(PHP).
+Concepts: OOP,  DSA , networking , Backend.
+Tools: Git, GitHub, VS Code.
 
-🚀 What I Do
+**🚀 What I Do**
 Build small and practical projects
 Create and improve websites+APPS
 Learn by experimenting and debugging
 Explore how systems communicate and stay secure
 
-🎯 Hobbies
+**🎯 Hobbies**
 Chess ♟️ • Cooking 🍳 • Reading about technology
 
 📫 How to Reach Me
