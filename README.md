@@ -16,8 +16,8 @@ Tools: Git, GitHub, VS Code.
 **🚀 What I Do :**
 Build small and practical projects.
 Create and improve websites+APPS.
-Learn by experimenting and debugging
-Explore how systems communicate and stay secure
+Learn by experimenting and debugging.
+Explore how systems communicate and stay secure.
 
 **🎯 Hobbies**
 Chess ♟️  • Cooking 🍳   • Reading about technology
