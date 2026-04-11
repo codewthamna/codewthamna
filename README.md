@@ -62,7 +62,7 @@ Chess ♟️  • Cooking 🍳   • Reading about technology
 
 </div>
 
-<br>
+
 ###
 
 <div align="left">
