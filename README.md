@@ -24,7 +24,6 @@ Chess ♟️  • Cooking 🍳   • Reading about technology.
 
 *📫 How to Reach Me ;)*
 
-<br>
 **GitHub :** https://github.com/codewthamna
 
 **Email :** amnasadozai09@gmail.com
