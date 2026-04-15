@@ -7,8 +7,6 @@ I’m a Computer Science student who enjoys building things with code and unders
 Languages: C , C++ , HTML , JavaScript , CSS , PHP, Java.
 
 
-
-
 **FrameWorks :** Laravel (PHP).
 Concepts: OOP,  DSA , networking , BackEnd.
 Tools: Git, GitHub, VS Code
@@ -25,16 +23,12 @@ Chess ♟️  • Cooking 🍳   • Reading about technology.
 *📫 How to Reach Me ;)*
 
 **GitHub :** https://github.com/codewthamna
-
 **Email :** amnasadozai09@gmail.com
-
 **LinkedIn :** https://linkedin.com/in/Amna-Khan
-
 **LeetCode:** https://leetcode.com/u/Amna-Khan/
 
 
 <br>
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
