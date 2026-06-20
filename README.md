@@ -24,7 +24,7 @@ Chess ♟️  • Cooking 🍳   • Reading about technology.
 
 **GitHub :** https://github.com/codewthamna
 **Email :** amnasadozai09@gmail.com
-**LinkedIn :** https://linkedin.com/in/Amna-Khan
+**LinkedIn :** https://www.linkedin.com/in/amna-khan-6b9465418/
 **LeetCode:** https://leetcode.com/u/Amna-Khan/
 
 
