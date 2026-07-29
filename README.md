@@ -8,7 +8,7 @@ Languages: C , C++ , HTML , JavaScript , CSS , PHP, Java.
 
 
 **FrameWorks :** Laravel (PHP).
-Concepts: OOP,  DSA , networking , BackE
+Concepts: OOP,  DSA , networking , BackEn
 Tools: Git, GitHub, VS Code
 
 **🚀 What I Do :**
